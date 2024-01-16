@@ -59,7 +59,6 @@ menu_options = [
     "Training",
     "Evaluasi Model",
     "Prediksi",
-    "Prediksi Best Model",
 ]
 
 selected_option = col1.radio("Pilih Menu", menu_options)
